@@ -124,6 +124,7 @@ Here are some ideas to get you started:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiArora-dev&theme=algolia" alt="Profile Summary"/>
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
@@ -168,7 +169,7 @@ public class MansiAroraProfile {
     );
 }
 ```
-
+---
 
 ## ✨ Random Dev Quote
 <div align="center">
