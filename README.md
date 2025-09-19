@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mansi+Arora;Software+Engineer+%F0%9F%9A%80;Spring+Boot+Developer;1.5%2B+Year+Experience;Building+Enterprise+Systems!;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mansi+Arora;Software+Engineer+%F0%9F%9A%80;SpringBoot+Developer;1.5%2B+Year+Experience;Building+Enterprise+Systems!;Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
