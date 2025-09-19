@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=MansiArora-dev&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/api/?username=MansiArora-dev&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&hide_border=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -112,28 +112,18 @@ Here are some ideas to get you started:
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MansiArora-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiArora-dev&layout=compact&langs_count=8&theme=algolia"/>
+  
+### 📈 GitHub Stats & Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MansiArora-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiArora-dev&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+
+### 📋 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiArora-dev&theme=algolia" alt="Profile Summary"/>
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiArora-dev&theme=algolia&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
-
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MansiArora-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus
@@ -179,8 +169,6 @@ public class MansiAroraProfile {
 }
 ```
 
-
----
 
 ## ✨ Random Dev Quote
 <div align="center">
