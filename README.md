@@ -1,4 +1,7 @@
-
+<!-- ✨ HEADER WAVE - Added at the very top! -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" width="100%"/>
+</div>
 
 <!--
 **MansiArora-dev/MansiArora-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -142,7 +145,7 @@ public class MansiAroraProfile {
     private String currentRole = "Software Engineer with Security Focus";
     
     @Value("${experience.years}")
-    private String experience = "1+ years hands-on Spring Boot development";
+    private String experience = "1.5+ years hands-on Spring Boot development";
     
     private String[] currentProjects = {
         "Enterprise Vulnerability Management System",
@@ -205,3 +208,4 @@ public class MansiAroraProfile {
   
   **Thanks for visiting! Let's connect and build something amazing together 🚀**
 </div>
+
