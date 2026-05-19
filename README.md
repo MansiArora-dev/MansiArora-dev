@@ -1,112 +1,136 @@
-<!-- ✨ HEADER WAVE - Added at the very top! -->
+<!-- HEADER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-
-<!--
-**MansiArora-dev/MansiArora-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mansi+Arora;Software+Engineer+%F0%9F%9A%80;SpringBoot+Developer;1.5%2B+Year+Experience;Building+Enterprise+Systems!;Always+Learning+%26+Growing!" alt="Typing SVG" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling&fontSize=16&fontColor=cdd6f4&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MansiArora-dev&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MansiArora-dev?label=Followers&style=for-the-badge&color=58a6ff" alt="followers" />
-  <img src="https://img.shields.io/github/stars/MansiArora-dev?label=Profile%20Stars&style=for-the-badge&color=58a6ff" alt="stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&background=0D111700&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Mansi+Arora;Software+Engineer+%7C+Java+%26+Spring+Boot+Developer;2+Years+Building+Enterprise+Backend+Systems;REST+APIs+%7C+Spring+Security+%7C+PostgreSQL+%7C+Flyway;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<h3 align="center">📍 Haryana, India &nbsp;|&nbsp; 💼 Open to Opportunities</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🚀 **Software Engineer** with **2 years** of hands-on experience building enterprise-grade backend systems
+- 🏢 Currently working at **Athera Analytics Pvt Ltd** — building a vulnerability monitoring platform
+- 🔭 Building **[TransitX](https://github.com/MansiArora-dev/transitx)** — a production-ready ride-hailing backend REST API
+- 💬 Ask me about **Java, Spring Boot, Spring Data JPA, REST APIs, Spring Security, JWT, Redis, PostgreSQL, Flyway**
+- 🌱 Currently learning **AWS • Spring AI • Redis**
+- 📫 Reach me at **mansiaroradev@gmail.com**
+- ⚡ Fun fact: I debug with coffee and deploy with confidence! ☕
+- 💼 **Open to new opportunities** — Full-time • Remote / Hybrid
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java_21-7aa2f7?style=for-the-badge&logo=openjdk&logoColor=1a1b2e)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-9ece6a?style=for-the-badge&logo=springboot&logoColor=1a1b2e)
+![Spring Security](https://img.shields.io/badge/Spring_Security-9ece6a?style=for-the-badge&logo=springsecurity&logoColor=1a1b2e)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-9ece6a?style=for-the-badge&logo=spring&logoColor=1a1b2e)
+![JWT](https://img.shields.io/badge/JWT-bb9af7?style=for-the-badge&logo=jsonwebtokens&logoColor=1a1b2e)
+![Maven](https://img.shields.io/badge/Maven-f7768e?style=for-the-badge&logo=apachemaven&logoColor=1a1b2e)
+![Flyway](https://img.shields.io/badge/Flyway-f7768e?style=for-the-badge&logo=flyway&logoColor=1a1b2e)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logo=postgresql&logoColor=1a1b2e)
+![Redis](https://img.shields.io/badge/Redis-f7768e?style=for-the-badge&logo=redis&logoColor=1a1b2e)
+![MySQL](https://img.shields.io/badge/MySQL-7aa2f7?style=for-the-badge&logo=mysql&logoColor=1a1b2e)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-e0af68?style=for-the-badge&logo=amazonaws&logoColor=1a1b2e)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-e0af68?style=for-the-badge&logo=awselasticbeanstalk&logoColor=1a1b2e)
+![RDS](https://img.shields.io/badge/RDS-e0af68?style=for-the-badge&logo=amazonrds&logoColor=1a1b2e)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-e0af68?style=for-the-badge&logo=amazonaws&logoColor=1a1b2e)
+![Docker](https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logo=docker&logoColor=1a1b2e)
+![Git](https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=1a1b2e)
+![Postman](https://img.shields.io/badge/Postman-e0af68?style=for-the-badge&logo=postman&logoColor=1a1b2e)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-bb9af7?style=for-the-badge&logo=intellijidea&logoColor=1a1b2e)
+
+</div>
+---
+
+## 🚀 Featured Projects
+
+> Production-grade projects demonstrating real-world backend engineering
+
+---
+
+#### 🚕 [TransitX — Ride Hailing Backend](https://github.com/MansiArora-dev/transitx)
+Production-grade ride-hailing REST API inspired by Uber — deployed on AWS
+
+![Java](https://img.shields.io/badge/Java_21-7aa2f7?style=flat-square&logoColor=1a1b2e)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-9ece6a?style=flat-square&logoColor=1a1b2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7aa2f7?style=flat-square&logoColor=1a1b2e)
+![Redis](https://img.shields.io/badge/Redis-f7768e?style=flat-square&logoColor=1a1b2e)
+![AWS](https://img.shields.io/badge/AWS-e0af68?style=flat-square&logoColor=1a1b2e)
+![JWT](https://img.shields.io/badge/JWT-bb9af7?style=flat-square&logoColor=1a1b2e)
+
+- 🔐 JWT authentication + role-based access control (RIDER, DRIVER, ADMIN)
+- 🗺️ OSRM-based fare calculation & PostGIS geospatial ride matching
+- 💰 Wallet-based payment system with Strategy design pattern
+- 📧 Email notifications via Gmail SMTP
+- 🚀 AWS CodePipeline CI/CD + Testcontainers
+- 📝 Recruiter-friendly Conventional Commits history
+
+---
+
+#### ☁️ [AWS Deploy Application — Cloud Deployment](https://github.com/MansiArora-dev/aws-deploy-application)
+End-to-end Spring Boot deployment on AWS with automated CI/CD
+
+![AWS EB](https://img.shields.io/badge/Elastic_Beanstalk-e0af68?style=flat-square&logoColor=1a1b2e)
+![RDS](https://img.shields.io/badge/RDS_PostgreSQL-7aa2f7?style=flat-square&logoColor=1a1b2e)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-e0af68?style=flat-square&logoColor=1a1b2e)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-e0af68?style=flat-square&logoColor=1a1b2e)
+![Docker](https://img.shields.io/badge/Docker-7aa2f7?style=flat-square&logoColor=1a1b2e)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-7aa2f7?style=flat-square&logoColor=1a1b2e)
+
+- 🚀 AWS Elastic Beanstalk (EC2 + Load Balancer + Autoscaling) — Mumbai region (ap-south-1)
+- 🗄️ AWS RDS (PostgreSQL) for managed cloud database
+- 🔄 CodePipeline + CodeBuild — auto-deploys on every push to master
+- 🧪 JUnit + Testcontainers — real PostgreSQL Docker container for tests
+- 🔐 IAM roles, Spring profiles (local/dev/prod) & env variables for secure config
+- 🐳 Docker Hub credentials configured in CodeBuild for Testcontainers image pulls
+
+---
+
+## 📚 Learning Projects
+
+> Structured learning journey — each repo focuses on one core Spring Boot concept
+
+<div align="center">
+
+| # | Project | Concepts Covered |
+|---|---------|-----------------|
+| 01 | [springboot-web-mvc](https://github.com/MansiArora-dev/springboot-web-mvc) | REST APIs, input validation, exception handling, layered architecture |
+| 02 | [springboot-data-jpa](https://github.com/MansiArora-dev/springboot-data-jpa) | Custom queries, pagination, sorting, database indexing |
+| 03 | [flyway-db-migration](https://github.com/MansiArora-dev/flyway-db-migration) | Flyway from-scratch & mid-project integration (2 branches) |
+| 04 | [springboot-introduction](https://github.com/MansiArora-dev/springboot-introduction) | Spring Beans, Dependency Injection, IoC, Spring Profiles |
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=MansiArora-dev&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&hide_border=true" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💫 About Me
-
-
-🚀 **Software Engineer** with **1.5+ year of hands-on experience** in designing and optimizing backend services using Spring Boot
-
-🔭 **Currently Working On:** Building microservices architecture with Spring Boot & Spring Security
-
-🌱 **Currently Learning:** Advanced AWS services, Kubernetes, Redis 
-
-👩‍💻 **All Projects:** Check out my repositories for backend applications and APIs
-
-💬 **Ask Me About:** Java, Spring Boot, RESTful APIs, Spring MVC, Spring Data JPA, Spring Security
-
-📫 **Reach Me:** mansiakkr@gmail.com
-
-⚡ **Fun Fact:** I debug with coffee and deploy with confidence! ☕
-
-🎯 **Goal:** To build software that makes a difference in people's lives
-
----
-
-## 🤝 Connect with me:
-
-<div align="center">
-  <a href="https://linkedin.com/in/mansi-arora" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mansiakkr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
- <a href="https://instagram.com/mansi_arora" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/mansi_arora" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+## ✨ What I Bring to the Table
 
 <div align="center">
 
-### 🎯 Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### 🎨 Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| 💡 Skill | 📈 Impact |
+|---|---|
+| Redis Caching (TTL + Cache Warming) | 40% reduction in database load |
+| RESTful API Design with Spring Boot | 30% improvement in API responsiveness |
+| PostgreSQL Query Optimization + Flyway | 40% faster query execution |
+| JavaMail Automated Alerts | 50% reduction in manual follow-ups |
+| AWS Full Deployment (EB + RDS + CodePipeline) | Production-grade cloud deployment |
+| JWT + Spring Security | Enterprise-level authentication & authorization |
 
 </div>
 
@@ -114,93 +138,66 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
-  
-### 📈 GitHub Stats & Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MansiArora-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiArora-dev&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MansiArora-dev&theme=tokyonight"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MansiArora-dev&theme=tokyonight"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MansiArora-dev&theme=tokyonight"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MansiArora-dev&theme=tokyonight&utcOffset=5.5"/>
+</div>
 
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiArora-dev&theme=algolia&hide_border=true" alt="GitHub Streak Stats"/>
+<br/>
 
-### 📋 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiArora-dev&theme=algolia" alt="Profile Summary"/>
-
-
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiArora-dev&theme=tokyonight" width="80%"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Trophies
 
-```java
-@Component
-public class MansiAroraProfile {
-    
-    @Value("${current.role}")
-    private String currentRole = "Software Engineer with Security Focus";
-    
-    @Value("${experience.years}")
-    private String experience = "1.5+ years hands-on Spring Boot development";
-    
-    private String[] currentProjects = {
-        "Enterprise Vulnerability Management System",
-        "Real-time Security Dashboard with Threat Analytics", 
-        "Performance Optimization (60% query improvement)",
-        "API Security Framework with JWT/OAuth2"
-    };
-    
-    private String[] expertise = {
-        "Java 21 + Spring Boot 3.2",
-        "RESTful API Design & Development",
-        "Database Performance Tuning",
-        "Security Implementation & Best Practices",
-        "Enterprise-grade Backend Systems"
-    };
-    
-    @Value("${career.goal}")
-    private String goal = "Building secure, scalable systems that protect businesses";
-    
-    @Value("${availability}")
-    private boolean openToOpportunities = true;
-    
-    // Proven Performance Metrics
-    private Map<String, String> achievements = Map.of(
-        "Query Performance", "40% improvement in execution time",
-        "API Responsiveness", "30% boost in response speed",
-        "Database Optimization", "30% performance enhancement",
-        "Security Coverage", "Enterprise-level vulnerability management"
-    );
-}
-```
----
-
-## ✨ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/api/?username=MansiArora-dev&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7"/>
 </div>
+
+<br/>
 
 ---
 
 ## 💼 Open for Opportunities
 
 <div align="center">
-  
-**🎯 Actively seeking Spring Boot Developer roles**
 
-[![Resume](https://img.shields.io/badge/Download-Resume-ff69b4?style=for-the-badge&logo=googledocs&logoColor=white)](link-to-your-resume)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](link-to-your-portfolio)
+<br/>
 
-*Available for Full-time positions • Remote/Hybrid*
+**🎯 Actively seeking Java / Spring Boot Developer roles**
+
+<br/>
+
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-f7768e?style=for-the-badge&logoColor=1a1b2e)](#)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-7aa2f7?style=for-the-badge&logoColor=1a1b2e)](https://linkedin.com/in/mansi-arora-dev)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/📬%20Mail%20Me-f7768e?style=for-the-badge&logoColor=1a1b2e)](mailto:mansiaroradev@gmail.com)
+
+<br/>
+
+![Full-time](https://img.shields.io/badge/Full--time-Available-9ece6a?style=flat-square&logoColor=1a1b2e)
+&nbsp;
+![Remote](https://img.shields.io/badge/Remote-Open-9ece6a?style=flat-square&logoColor=1a1b2e)
+&nbsp;
+![Hybrid](https://img.shields.io/badge/Hybrid-Open-9ece6a?style=flat-square&logoColor=1a1b2e)
+&nbsp;
+![On-site](https://img.shields.io/badge/On--site-Open-9ece6a?style=flat-square&logoColor=1a1b2e)
+
+<br/>
 
 </div>
 
 ---
 
+<!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=50" width="100%"/>
-  
-  **Thanks for visiting! Let's connect and build something amazing together 🚀**
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontSize=16&fontColor=cdd6f4&fontAlignY=65" width="100%"/>
+  <p><em>Thanks for visiting! Let's build something amazing 🚀</em></p>
 </div>
-
